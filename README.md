@@ -1,6 +1,6 @@
 # ffi-xcframework
 
-Distribution repo for pre-built binaries of libciteproc_rs.a, the FFI module
+Distribution repo for pre-built binaries of CiteprocRs.xcframework, the FFI module
 from [citeproc-rs](https://github.com/zotero/citeproc-rs), built for use in
 the Swift bindings for it,
 [CiteprocRsKit](https://github.com/cormacrelf/CiteprocRsKit).
