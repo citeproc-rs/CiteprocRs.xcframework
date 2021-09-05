@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CiteprocRs",
-            url: "https://github.com/citeproc-rs/ffi-xcframework/releases/download/v1.0.0/CiteprocRs.xcframework.zip",
-            checksum: "923423661fda357bc7d21cc39d4873bd07ddff32afb22a925e7ab18a4c2542e9"
+            url: "https://github.com/citeproc-rs/ffi-xcframework/releases/download/1.0.1/CiteprocRs.xcframework.zip",
+            checksum: "57522d46c725d1b26baca5876fbf2e4db966b2d31311e45f3128c01974c9be74"
         ),
     ]
 )
